@@ -10,7 +10,9 @@ anything is published. The focus is on the engineering: what was done, why, and 
 ## Reports
 
 <!-- INDEX:START -->
-_No reports yet._
+| Date | Headline | Focus |
+|---|---|---|
+| [2026-10-14](reports/2026-10-14.md) | Established key-based SSH to every lab host, then used that access to rescue two VMs with full disks, restore a lost Grafana service, and repair a host that had no SSH at all through the hypervisor's guest agent. | Linux administration Virtualization Monitoring Automation |
 <!-- INDEX:END -->
 
 ## How these are produced
